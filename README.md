@@ -25,7 +25,7 @@ This project focuses on utilizing Generative Adversarial Networks (GANs) to gene
    - **Matplotlib** is used for data visualization, showcasing the generated fashion images.
 
 5. **Setting Up Environment**
-   - Instructions are provided for setting up the environment, including installing dependencies and limiting GPU memory growth to prepare for building the GAN.
+   - Install dependencies and limit GPU memory growth to prepare for building the GAN.
 
 ## Conclusion
 This project showcases the use of GANs in generating a fashion line, highlighting their potential in creative content generation. By understanding the key components and training process of GANs, developers can explore various applications of this technology in different domains.
