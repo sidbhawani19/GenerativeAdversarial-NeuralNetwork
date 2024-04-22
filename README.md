@@ -1,4 +1,4 @@
-# Project Title: Fashion Line Generation Using Generative Adversarial Networks (GANs)
+# Fashion Line Generation Using Generative Adversarial Networks (GANs)
 
 ## Introduction
 This project focuses on utilizing Generative Adversarial Networks (GANs) to generate a fashion line, showcasing the potential of GANs in creative content generation. GANs are a type of generative machine learning model that consists of two neural networks, the generator, and the discriminator, which are trained together to generate realistic data.
