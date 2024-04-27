@@ -3,6 +3,8 @@
 ## Introduction
 This project focuses on utilizing Generative Adversarial Networks (GANs) to generate a fashion line, showcasing the potential of GANs in creative content generation. GANs are a type of generative machine learning model that consists of two neural networks, the generator, and the discriminator, which are trained together to generate realistic data.
 
+<img src="https://drive.google.com/uc?export=view&id=1uqL2Lfyq_JCxcUTSJ8S9STCUIDDuiMhU" alt="Image from Google Drive">
+
 ## Project Overview
 - **Objective**: Generate a fashion line using GANs.
 - **Technologies Used**: TensorFlow, Python, Matplotlib, TensorFlow Datasets.
